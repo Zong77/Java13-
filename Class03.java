@@ -9,10 +9,10 @@ public class Class03 {
 			System.out.println("ans=" + ans);
 
 		} catch (ArithmeticException e) {
-			System.out.println("°£¼Æ¬° 0");
+			System.out.println("Â°Â£Â¼Ã†Â¬Â° 0");
 
 		} finally {
-			System.out.println("end of main() mrthod!!");
+			System.out.println("end of main() method!!");
 		}
 	}
 }
